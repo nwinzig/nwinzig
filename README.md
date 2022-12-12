@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
-My name's Noah Winzig, I'm an avid reader, be it a Hemingway or a new fantasy novel. If I'm not reading you'll probably find me practicing coding. Most of my roles have been customer facing, however I've recently made a change to pursue software engineering. The industry excites me and I've been able to hone my skills in Javascript, Python, React, CSS, HTML, and other technologies through a 6 month Full Stack Software Engineering bootcamp at App Academy. Please feel free to reach out if you'd like to hear about my experiences or talk through any of the web applications I have created.
+I'm an avid reader, be it a Hemingway or a new fantasy novel. If I'm not reading you'll probably find me practicing coding. Most of my roles have been customer facing, however I've recently made a change to pursue software engineering. The industry excites me and I've been able to hone my skills in Javascript, Python, React, CSS, HTML, and other technologies through a 6 month Full Stack Software Engineering bootcamp at App Academy. Please feel free to reach out if you'd like to hear about my experiences or talk through any of the web applications I have created.
 
 
 <!--
