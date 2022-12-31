@@ -1,6 +1,10 @@
 ## Hello there 👋
 
 I'm an avid reader, be it a Hemingway or a new fantasy novel. If I'm not reading you'll probably find me practicing coding. Most of my roles have been customer facing, however I've recently made a change to pursue software engineering. The industry excites me and I've been able to hone my skills in Javascript, Python, React, CSS, HTML, and other technologies through a 6 month Full Stack Software Engineering bootcamp at App Academy. Please feel free to reach out if you'd like to hear about my experiences or talk through any of the web applications I have created.
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white) ![Skill Share](https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84) ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+
 
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&show_icons=true&theme=transparent&count_private=true)
 <!--
