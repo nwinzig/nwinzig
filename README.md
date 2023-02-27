@@ -10,7 +10,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 <!--  ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&show_icons=true&theme=blue&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwinzig)](https://github.com/nwinzig/github-readme-stats) -->
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig)
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&count_private=true)
 <!-- ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&show_icons=true&theme=transparent&count_private=true) -->
 
 A quick shoutout to 
