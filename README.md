@@ -11,7 +11,7 @@
 
 <!--  ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&show_icons=true&theme=blue&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwinzig)](https://github.com/nwinzig/github-readme-stats) -->
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwinzig)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwinzig&layout=compact)
 <!-- ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&show_icons=true&theme=transparent&count_private=true) -->
 
 A quick shoutout to 
