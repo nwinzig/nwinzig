@@ -10,7 +10,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nwinzig&count_private=true&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwinzig&layout=compact&theme=tokyonight) -->
 
 
